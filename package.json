@@ -1,4 +1,7 @@
 {
   "name": "depending",
-  "packageManager": "yarn@3.6.3"
+  "packageManager": "yarn@3.6.3",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
 }
