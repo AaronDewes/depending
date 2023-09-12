@@ -9,22 +9,22 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "depending@workspace:."
   dependencies:
-    is-odd: ^3.0.1
+    is-odd: ^2.0.0
   languageName: unknown
   linkType: soft
 
-"is-number@npm:^6.0.0":
-  version: 6.0.0
-  resolution: "is-number@npm:6.0.0"
-  checksum: f73bfced022128b5684bf77e0266a74e5222522bbc40f81cc1e949170c774a3c14b59a208be025d2d97a9c6b79c7c45fe351ab1c2c780872464fdedde0ae067a
+"is-number@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "is-number@npm:4.0.0"
+  checksum: e71962a5ae97400211e6be5946eff2b81d3fa85154dad498bfe2704999e63ac6b3f8591fdb7971a121122cc6e25915c2cfe882ff7b77e243d51b92ca6961267e
   languageName: node
   linkType: hard
 
-"is-odd@npm:^3.0.1":
-  version: 3.0.1
-  resolution: "is-odd@npm:3.0.1"
+"is-odd@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "is-odd@npm:2.0.0"
   dependencies:
-    is-number: ^6.0.0
-  checksum: 4e2b20764dd2296bafe44823d127f281c7039b37d2feaf5caffc1bf162502ef2920bcd4ad171490f371d3f15f52232c763a8ffc0b3633d4c83385fe20f3493af
+    is-number: ^4.0.0
+  checksum: 89da9e6dba221361d8af5384f26a49575610e1910118538cfbcc2c0469aa2cf7b695a2e85fb4bcbe7521480bd727c234c9b5397f24554cd96cd5c1e7a7ae5143
   languageName: node
   linkType: hard

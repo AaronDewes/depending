@@ -2,6 +2,6 @@
   "name": "depending",
   "packageManager": "yarn@3.6.3",
   "dependencies": {
-    "is-odd": "^3.0.1"
+    "is-odd": "^2.0.0"
   }
 }
